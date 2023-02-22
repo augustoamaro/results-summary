@@ -19,6 +19,7 @@
 - Flexbox
 - Media Queries
 - DOM Manipulation
+- High Order Function
 
 ## Author
 
