@@ -13,11 +13,12 @@
 
 ### Built with
 
-- Semantic HTML5 markup
+- Semantic HTML5
 - CSS custom properties
-- Mobile-first workflow
+- Mobile-first
 - Flexbox
 - Media Queries
+- DOM Manipulation
 
 ## Author
 
