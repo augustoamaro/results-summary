@@ -5,6 +5,11 @@
     padding: 0;
 }
 
+.body {
+    background-color: #ECF2FF;
+
+}
+
 .result {
     display: flex;
     flex-direction: column;
@@ -144,7 +149,7 @@
 }
 
 .summary button {
-    width: 100%;
+    width: 315px;
     height: 56px;
     background: #303B59;
     border-radius: 128px;
@@ -176,9 +181,28 @@
  .summary {
     background: #FFFFFF;
     box-shadow: 0px 30px 60px rgba(61, 108, 236, 0.15);
-    border-radius: 32px;
+    border-top-right-radius: 32px;
+    border-bottom-right-radius: 32px;
     margin: 0;
     width: 368px;
     height: 512px;
+ }
+
+ .summary h2 {
+    margin-left: 40px;
+    margin-top: 38px;
+ }
+
+ .summary div {
+    width: 288px;
+    margin-left: 40px;
+
+ }
+
+ .summary button {
+    width: 288px;
+    margin: 40px 40px 0 17px;
+    margin-left: 40px;
+    margin-top: 17px;
  }
 }
