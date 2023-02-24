@@ -8,8 +8,8 @@ divs.forEach((div, i) => {
     div.style.backgroundColor = color;
     div.style.color = color;
 
-    let icon = data[i].icon
-    div.children[0].setAttribute('src', icon)
+    // let icon = data[i].icon
+    // div.children[0].setAttribute('src', icon)
 
     let category = data[i].category;
     div.children[1].textContent = category
