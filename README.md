@@ -6,8 +6,8 @@
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/augustoamaro/)
-- Live Site URL: [Live Site](https://augustoamaro.github.io//)
+- Solution URL: [Solution](https://github.com/augustoamaro/results-summary)
+- Live Site URL: [Live Site](https://superlative-paprenjak-b8bfc2.netlify.app/)
 
 ## My process
 
